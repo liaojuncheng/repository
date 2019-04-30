@@ -5,4 +5,7 @@ package com.demo;
  * @create 2019-04-29 21:28
  */
 public class test {
+    public static void main(String[] args) {
+
+    }
 }
