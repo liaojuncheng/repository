@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0febeb7-f31f-4c3d-ae79-cdaab546dd34" name="Default Changelist" comment="22">
+    <list default="true" id="b0febeb7-f31f-4c3d-ae79-cdaab546dd34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/demo/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/demo/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/demo/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/test/target/" />
@@ -14,6 +12,12 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
@@ -30,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/demo/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="176">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -180,7 +184,7 @@
       <updated>1556541961038</updated>
       <workItem from="1556541964304" duration="1221000" />
       <workItem from="1556543531431" duration="2806000" />
-      <workItem from="1556613313839" duration="5330000" />
+      <workItem from="1556613313839" duration="6417000" />
     </task>
     <task id="LOCAL-00001" summary="11">
       <created>1556619220690</created>
@@ -203,17 +207,33 @@
       <option name="project" value="LOCAL" />
       <updated>1556619789782</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="33">
+      <created>1556620026346</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556620026346</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9357000" />
+    <option name="totallyTimeSpent" value="10444000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="156" y="48" width="1407" height="1007" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17699777" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17699777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -227,14 +247,14 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32969698" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32969698" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32969698" />
       <window_info anchor="bottom" id="Problems" order="14" weight="0.32969698" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24943988" />
@@ -279,7 +299,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11" />
     <MESSAGE value="22" />
-    <option name="LAST_COMMIT_MESSAGE" value="22" />
+    <MESSAGE value="33" />
+    <option name="LAST_COMMIT_MESSAGE" value="33" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -312,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/demo/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="176">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
